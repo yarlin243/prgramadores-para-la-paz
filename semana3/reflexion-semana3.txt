@@ -1,0 +1,8 @@
+flexion: es importante mantener un registro de cambios de los proyectos de software
+porque permite organizar mejor un trabajo realizado.
+herramientas como git ayudan a aguardar cada modificacion hecha en los archivos del proyecto.
+esto facilita identificar errores y volver a versiones anteriores cuando sea necesario. Ademas; permite
+que varias personas trabajen al mismo tiempo sin peder informacion. Cada cambio queda resgistrado
+con fecha y descripcion, lo que mejora el control del proyecto.
+tambien ayuda a mantener un historial claro de los avances realizados,
+el uso de git mejora la colaboracion y la comunicacion entre los integrantes del equipo.
