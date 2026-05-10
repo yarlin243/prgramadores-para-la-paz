@@ -1,0 +1,12 @@
+repositorion  
+concepto: un repositorio es un lugar donde se almacenan los archivos de un proyecto en git
+permite organizar el trabajo y llevar un historial de todas las modificaciones realizadas.
+
+commit
+concepto:un commit es un registro o "captura" de los cambios realizados en un proyecto
+sirve para guardar avances y poder regresar a versiones anteriores si se necesita.
+
+push
+concepto: el comando push se utiliza para enviar los cambios del repositorio local
+en un repositio remoto. 
+esto permite compartir el trabajo con otras personas y mantener el proyecto actualizado.
